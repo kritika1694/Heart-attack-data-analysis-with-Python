@@ -1,6 +1,6 @@
 Heart Attack Data Analysis using Python 
 
-Skills : Python, Pandas, Seaborn, Plotty Express
+Skills : Python, Pandas, Matplotlib, Seaborn, Plotty Express
 
 The project is about:
 
@@ -36,7 +36,7 @@ Insights from the data analysis:
     
      - Cholesterol: Ranges from a minimum of 150 mg/dL to maximum of 299 mg/dL, averaging at 223.78mg/dL. Hence majority have a higher lipid profile more than 200
         
-- The histogram analysis shows their count in various value groups.
+- The histogram analysis shows count of numeric variables.
   
 - The Correlation analysis shows:
   ![3](https://github.com/user-attachments/assets/ff7a267e-40f6-4026-a0b2-512328e6a8b2)
