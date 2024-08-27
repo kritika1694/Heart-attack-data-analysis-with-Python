@@ -1,5 +1,7 @@
 Heart Attack Data Analysis using Python 
 
+Skills : Python, Pandas, Seaborn, Plotty Express
+
 The project is about:
 
 Data cleaning, exploratory data analysis and visualisations of heart attack data matrices, using Python- Pandas, Seaborn, and Plotty express.
