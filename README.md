@@ -24,7 +24,7 @@ Insights from the data analysis:
      - Cholesterol: Ranges from a 150 mg/dL to 299 mg/dL, averaging at 223.78mg/dL. Majority have a higher lipid profile more than 200.
         
 
-- The Correlation analysis shows:
+- The Correlation analysis odf age, blood ppressure, cholestrol:
   ![3](https://github.com/user-attachments/assets/ff7a267e-40f6-4026-a0b2-512328e6a8b2)
 
      - Age and blood pressure shows slightly negative correlation: data suggests negligible relationship between them.
