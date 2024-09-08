@@ -31,10 +31,10 @@ Insights from the data analysis:
      -  Blood Pressure and Cholesterol shows a slight positive correlation of 0.044, indicating some relationship.
      -  Again age and cholesterol shows very weak positive correlation as per the data.
 
-- Univariate Analysis: The categorical variables are visualised as per their frequency, as shown in diagrams: 
+- Univariate Analysis: Bar plot of categorical variables visualised as per their frequencys: 
   ![a1](https://github.com/user-attachments/assets/1c677b2c-f717-4cca-9572-fe6d6433aa61)
   ![a2](https://github.com/user-attachments/assets/241a012f-c421-401d-b860-9e90fdadde5b)
-                    ![a3](https://github.com/user-attachments/assets/3b082d95-d7d9-4627-93dc-db630004f590)
+  ![a3](https://github.com/user-attachments/assets/3b082d95-d7d9-4627-93dc-db630004f590)
 
      - Gender: Female number is higher(510) vs Males(490)
      - Has diabetes: Majority of the people have diabetes(517/1000).
