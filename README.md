@@ -8,7 +8,7 @@ Dataset Information: Gender, Age, Blood Pressure (mmHg), Cholesterol (mg/dL), Ha
 
 Summary of Data Analysis:
 
-- Importing packages in Python, reading .csv file in pandas, Data cleaning: removing duplicates, unique column values,checking null values.
+- Importing packages, reading .csv file in pandas, Data cleaning: removing duplicates, unique column values,checking null values.
 - Exploratory data analysis: finding count and frequency of categorical variables and max, min, average etc of numerical variables.
 - Visualizations: Correlation matrix and histogram distribution of numerical variables; Bar representation of univariate analysis for categorical variables
 
